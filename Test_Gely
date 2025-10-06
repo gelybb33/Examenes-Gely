@@ -1,0 +1,7 @@
+echo "# Examenes-Gely" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gelybb33/Examenes-Gely.git
+git push -u origin main
